@@ -1,0 +1,9 @@
+Notes
+How to get back into myvenv
+
+$ cd ~/DjangoGirls/myvenv
+$ source bin/activate
+
+How to launch the application
+$ ~/Desktop/DjangoGirls
+$ python manage.py runserver
